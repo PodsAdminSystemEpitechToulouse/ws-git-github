@@ -77,8 +77,8 @@ re run the following command
 
 - read more about Github Actions: [github](https://docs.github.com/en/actions)
 
-- create a workflow that will compile your code evey time you push on a branch
+- create a workflow that will compile your code every time you push on a branch
 
-- create a workflow that will check your norm evey time you create a pull request
+- create a workflow that will check your norm every time you create a pull request
 
 - create a workflow that open a issue when something goes wrong in your workflow
