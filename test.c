@@ -5,6 +5,7 @@ int main()
     int *a = malloc(sizeof(int));
     int tmp = 0;
 
+    *a = 1;
     tmp = *a;
     free(a);
     return tmp;
